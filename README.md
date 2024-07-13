@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **tharushidilesha1@gmail.com**
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharushi dilesha" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="tharushi dilesha" height="50" width="50" /></a>
