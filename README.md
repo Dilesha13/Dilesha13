@@ -33,17 +33,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilesha13&theme=radical" alt="dilesha13" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dilesha13&bg_color=1a1b27&color=be90f2&line=638fda&point=35aaa1&area=true&hide_border=true" alt="Contribution Graph" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      [![trophy](https://github-profile-trophy.vercel.app/?username=dilesha13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dilesha13&theme=radical" alt="dilesha13" />
     </td>
   </tr>
 </table>
