@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilesha13&theme=radical" alt="dilesha13" />
     </td>
   </tr>
